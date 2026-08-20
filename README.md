@@ -22,8 +22,10 @@ Java/Spring 백엔드 개발자를 목표로 실제 오픈소스를 읽고, 실�
 
 ## 실습 경로
 
-- [ ] 깨진 Spring 테스트의 원인 분석과 최소 수정
-- [ ] Spring Petclinic 실행, 요청 흐름 추적, 테스트 수정
+- [ ] GitHub 저장소, fork, clone의 관계 이해
+- [ ] Spring Petclinic을 fork하고 로컬에서 원본 상태로 실행
+- [ ] 관심 있는 HTTP 요청 하나의 Controller → Service 흐름 추적
+- [ ] 백엔드 테스트 기초 학습 후 작은 수정과 회귀 테스트
 - [ ] LangChain4j와 로컬 Ollama를 이용한 이슈 구조화 API
 - [ ] 실제 오픈소스 이슈 재현과 PR 초안
 - [ ] Spring AI 내부 코드 탐색
